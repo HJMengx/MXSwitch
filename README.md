@@ -2,4 +2,4 @@
 title: 介绍
 ---
 
-![](animation.gif)
+![](MXSwitch/animation.gif)
